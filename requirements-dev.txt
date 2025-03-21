@@ -4,3 +4,4 @@ pytest
 ruff
 flake8
 black
+isort
